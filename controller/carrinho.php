@@ -1,0 +1,1 @@
+<h2>Esta é página do carrinho</h2>
